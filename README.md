@@ -10,6 +10,8 @@ https://dwm.suckless.org/patches/movestack/
 
 https://dwm.suckless.org/patches/uselessgap/
 
+https://dwm.suckless.org/patches/systray/
+
 
 dwm - dynamic window manager
 ============================
