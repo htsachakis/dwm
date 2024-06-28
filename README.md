@@ -12,6 +12,8 @@ https://dwm.suckless.org/patches/uselessgap/
 
 https://dwm.suckless.org/patches/systray/
 
+https://dwm.suckless.org/patches/fullgaps/
+
 
 dwm - dynamic window manager
 ============================
