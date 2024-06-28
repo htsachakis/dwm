@@ -1,9 +1,13 @@
 Added patches 
-
+============================
 https://dwm.suckless.org/patches/alwayscenter/
+
 https://dwm.suckless.org/patches/attachbelow/
+
 https://dwm.suckless.org/patches/autostart/
+
 https://dwm.suckless.org/patches/movestack/
+
 https://dwm.suckless.org/patches/uselessgap/
 
 
